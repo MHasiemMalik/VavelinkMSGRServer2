@@ -9,7 +9,16 @@
   transform: translate(-50%, -50%);
   
 }
-
+#ct{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 9999;
+  font-size: 20px;
+  font-family: 'Averia Sans Libre', sans-serif;
+  color: #effb06;
+  opacity: 0.25;
+}
 #lobby__form {
   padding: 2em;
 }
