@@ -227,7 +227,8 @@
   }
   #members__container{
     display:none;
-    right:38.5%;
+    right:6.5%;
+    position: absolute;
   }
 }
 
